@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Expandable Card</string>
+    <string name="login">Login :</string>
+    <string name="_10_00_am">10:00 am</string>
+    <string name="logout">LogOut :</string>
+    <string name="_9_00_am">09:00 pm</string>
+    <string name="_01_00_pm">01:00 pm</string>
+    <string name="hyphen">-</string>
+    <string name="_03_00_pm">03:00 pm</string>
+    <string name="_02_00_pm">02:00 pm</string>
+    <string name="_04_00_pm">04:00 pm</string>
+</resources>
